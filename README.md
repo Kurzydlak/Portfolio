@@ -25,6 +25,7 @@ Manual Tester - Cherry IT
 10.2022 - 12.2022
 
 Project based on the trello board and it's oriented for finding defects and reporting defects by developer tools.
+
 Scope of work:
 
 - Writing test cases
@@ -36,6 +37,7 @@ QA Volunteer at [Project Odessa](http://cherry-it.pl/archiwum-projektu-odessa/) 
 04.2022 - 06.2022
 
 Manual testing https://inchargecard.com/ application
+
 Scope of work:
 
 - Executing explorative tests to searching potentially defects
@@ -50,6 +52,7 @@ Manual tester - Utest.com
 Pass a Academy on Utest.com and manual testing a few apllication on this site by taking orders.
 
 Scope of work:
+
 - Web application functional testing
 - Mobile application testing
 
