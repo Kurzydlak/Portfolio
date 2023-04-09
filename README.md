@@ -62,6 +62,7 @@ Scope of work:
 - Slack
 - Devtools
 - Trello
+- Git
 
 ## Books:
 
@@ -80,7 +81,8 @@ Scope of work:
 ## Certificates
 
 [Certificate Software testing basics - practical workshop](https://drive.google.com/file/d/1bTROrUMg6ePKYeALjRw7Tn3_txB9OZd1/view?usp=share_link)
-[Dyplom Praktyka testowania dl a początkujących testerów](https://drive.google.com/file/d/10-CMxjdkT0HKQUGWumMwQiW9pK-_Lmdn/view?usp=share_link)
+
+[Dyplom Praktyka testowania dla początkujących testerów](https://drive.google.com/file/d/10-CMxjdkT0HKQUGWumMwQiW9pK-_Lmdn/view?usp=share_link)
 
 
 
