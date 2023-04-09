@@ -16,3 +16,50 @@ All of these tasks have names that correspond to the individual stages of the te
 [English version](https://github.com/Kurzydlak/Practice-Workshop-ENG)
 
 [Polish version](https://github.com/Kurzydlak/Praktyka-testowania---zadania)
+
+
+## Projects:
+
+Manual Tester - Cherry IT
+
+10.2022 - 12.2022
+
+Project based on the trello board and it's oriented for finding defects and reporting defects by developer tools.
+Scope of work:
+
+- Writing test cases
+- Reporting defects
+- Operation with devtool
+
+QA Volunteer at [Project Odessa](http://cherry-it.pl/archiwum-projektu-odessa/) - Cherry IT
+
+04.2022 - 06.2022
+
+Manual testing https://inchargecard.com/ application
+Scope of work:
+
+- Executing explorative tests to searching potentially defects
+- Reporting defects
+- Executing Regression tests and retests
+- Communicating with other volunteers in crowd team
+
+Manual tester - Utest.com
+
+01.2022 - 04.2022
+
+Pass a Academy on Utest.com and manual testing a few apllication on this site by taking orders.
+
+Scope of work:
+- Web application functional testing
+- Mobile application testing
+
+## Books:
+
+[Zawód tester. Od decyzji do zdobycia doświadczenia] (https://www.empik.com/zawod-tester-od-decyzji-do-zdobycia-doswiadczenia-smilgin-radoslaw,p1214300025,ksiazka-p?cq_src=google_ads&cq_cmp=&cq_term=&cq_plac=&cq_net=&cq_plt=gp&gclid=Cj0KCQjwxMmhBhDJARIsANFGOSseJrolQdReXOLGPFyOtsvuIShG_vUF3TtyBA2TE8dNUqXlrMVmfF4aAgUOEALw_wcB&gclsrc=aw.ds) Author: Smilgin Radosław 
+
+[Certyfikowany tester ISTQB. Poziom podstawowy] (https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d) Authors: Adam Roman, Lucjan Stapp
+
+[Automatyzacja testów. Kompletny przewodnik dla testerów oprogramowania] (https://ksiegarnia.pwn.pl/Automatyzacja-testow.-Kompletny-przewodnik-dla-testerow-oprogramowania,813101585,p.html?gclid=Cj0KCQjwxMmhBhDJARIsANFGOSt-gRZrz_cG3ATluLKTnNtodVkwZmNUq3WK4hW3_CDoioAWkoUFG9waAjVSEALw_wcB) Author: Arnon Axelrod (**In Progress**)
+
+[Selenium i testowanie aplikacji. Receptury. Wydanie II] (https://helion.pl/ksiazki/selenium-i-testowanie-aplikacji-receptury-wydanie-ii-unmesh-gundecha,seler2.htm#format/d) Author: Unmesh Gundecha (**In Progress**)
+
