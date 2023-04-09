@@ -58,7 +58,7 @@ Scope of work:
 
 ## Books:
 
-[Zawód tester. Od decyzji do zdobycia doświadczenia] (https://tiny.pl/w6468) Author: Smilgin Radosław 
+[Zawód tester. Od decyzji do zdobycia doświadczenia](https://tiny.pl/w6468) Author: Smilgin Radosław 
 
 [Certyfikowany tester ISTQB. Poziom podstawowy] (https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d) Authors: Adam Roman, Lucjan Stapp
 
