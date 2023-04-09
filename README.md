@@ -11,5 +11,7 @@ Currently I'm taking my first steps in the automation with Java and Selenium.
 **Practice workshop by Testerzy.pl**
 It's a 30 practice exercises that solidified my theory about manual testing.
 All of these tasks have names that correspond to the individual stages of the tester's work so you can review what you want.
+
 [English version](https://github.com/Kurzydlak/Practice-Workshop-ENG)
+
 [Polish version](https://github.com/Kurzydlak/Praktyka-testowania---zadania)
