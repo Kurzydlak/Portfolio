@@ -20,7 +20,7 @@ All of these tasks have names that correspond to the individual stages of the te
 
 ## Projects:
 
-Manual Tester - Cherry IT
+**Manual Tester - Cherry IT**
 
 10.2022 - 12.2022
 
@@ -32,7 +32,7 @@ Scope of work:
 - Reporting defects
 - Operation with devtool
 
-QA Volunteer at [Project Odessa](http://cherry-it.pl/archiwum-projektu-odessa/) - Cherry IT
+**QA Volunteer at [Project Odessa](http://cherry-it.pl/archiwum-projektu-odessa/) - Cherry IT**
 
 04.2022 - 06.2022
 
@@ -45,7 +45,7 @@ Scope of work:
 - Executing Regression tests and retests
 - Communicating with other volunteers in crowd team
 
-Manual tester - Utest.com
+**Manual tester - Utest.com**
 
 01.2022 - 04.2022
 
@@ -56,6 +56,13 @@ Scope of work:
 - Web application functional testing
 - Mobile application testing
 
+## Stack:
+
+- Postman
+- Slack
+- Devtools
+- Trello
+
 ## Books:
 
 [Zawód tester. Od decyzji do zdobycia doświadczenia](https://ksiegarnia.pwn.pl/Zawod-tester.-Od-decyzji-do-zdobycia-doswiadczenia,743423772,p.html?gclid=Cj0KCQjwxMmhBhDJARIsANFGOSuBQZz8PwrbL136W1o6Dx6EholfAi2jhjxQV7TpSSeSAeUUHnVCfLMaAh0xEALw_wcB) Author: Smilgin Radosław 
@@ -65,4 +72,15 @@ Scope of work:
 [Automatyzacja testów. Kompletny przewodnik dla testerów oprogramowania](https://ksiegarnia.pwn.pl/Automatyzacja-testow.-Kompletny-przewodnik-dla-testerow-oprogramowania,813101585,p.html?gclid=Cj0KCQjwxMmhBhDJARIsANFGOSt-gRZrz_cG3ATluLKTnNtodVkwZmNUq3WK4hW3_CDoioAWkoUFG9waAjVSEALw_wcB) Author: Arnon Axelrod (**In Progress**)
 
 [Selenium i testowanie aplikacji. Receptury. Wydanie II](https://helion.pl/ksiazki/selenium-i-testowanie-aplikacji-receptury-wydanie-ii-unmesh-gundecha,seler2.htm#format/d) Author: Unmesh Gundecha (**In Progress**)
+
+## Events:
+
+[Azure summit](https://azuresummit.pl)
+
+## Certificates
+
+[Certificate Software testing basics - practical workshop](https://drive.google.com/file/d/1bTROrUMg6ePKYeALjRw7Tn3_txB9OZd1/view?usp=share_link)
+[Dyplom Praktyka testowania dl a początkujących testerów](https://drive.google.com/file/d/10-CMxjdkT0HKQUGWumMwQiW9pK-_Lmdn/view?usp=share_link)
+
+
 
