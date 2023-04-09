@@ -58,11 +58,11 @@ Scope of work:
 
 ## Books:
 
-[Zawód tester. Od decyzji do zdobycia doświadczenia](https://tiny.pl/w6468) Author: Smilgin Radosław 
+[Zawód tester. Od decyzji do zdobycia doświadczenia](https://ksiegarnia.pwn.pl/Zawod-tester.-Od-decyzji-do-zdobycia-doswiadczenia,743423772,p.html?gclid=Cj0KCQjwxMmhBhDJARIsANFGOSuBQZz8PwrbL136W1o6Dx6EholfAi2jhjxQV7TpSSeSAeUUHnVCfLMaAh0xEALw_wcB) Author: Smilgin Radosław 
 
-[Certyfikowany tester ISTQB. Poziom podstawowy] (https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d) Authors: Adam Roman, Lucjan Stapp
+[Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d) Authors: Adam Roman, Lucjan Stapp
 
-[Automatyzacja testów. Kompletny przewodnik dla testerów oprogramowania] (https://ksiegarnia.pwn.pl/Automatyzacja-testow.-Kompletny-przewodnik-dla-testerow-oprogramowania,813101585,p.html?gclid=Cj0KCQjwxMmhBhDJARIsANFGOSt-gRZrz_cG3ATluLKTnNtodVkwZmNUq3WK4hW3_CDoioAWkoUFG9waAjVSEALw_wcB) Author: Arnon Axelrod (**In Progress**)
+[Automatyzacja testów. Kompletny przewodnik dla testerów oprogramowania](https://ksiegarnia.pwn.pl/Automatyzacja-testow.-Kompletny-przewodnik-dla-testerow-oprogramowania,813101585,p.html?gclid=Cj0KCQjwxMmhBhDJARIsANFGOSt-gRZrz_cG3ATluLKTnNtodVkwZmNUq3WK4hW3_CDoioAWkoUFG9waAjVSEALw_wcB) Author: Arnon Axelrod (**In Progress**)
 
-[Selenium i testowanie aplikacji. Receptury. Wydanie II] (https://helion.pl/ksiazki/selenium-i-testowanie-aplikacji-receptury-wydanie-ii-unmesh-gundecha,seler2.htm#format/d) Author: Unmesh Gundecha (**In Progress**)
+[Selenium i testowanie aplikacji. Receptury. Wydanie II](https://helion.pl/ksiazki/selenium-i-testowanie-aplikacji-receptury-wydanie-ii-unmesh-gundecha,seler2.htm#format/d) Author: Unmesh Gundecha (**In Progress**)
 
