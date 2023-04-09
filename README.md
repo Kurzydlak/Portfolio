@@ -58,11 +58,13 @@ Scope of work:
 
 ## Stack:
 
+- Java (Basics)
+- Selenium (Basics)
 - Postman
-- Slack
+- Git
 - Devtools
 - Trello
-- Git
+- Slack
 
 ## Books:
 
