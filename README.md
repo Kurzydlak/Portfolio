@@ -29,7 +29,7 @@ The project was with the help of Postman.
 Scope of work:
 
 - Explore a trello documentation and install other tools
-- Getting acquainted with the topic of Methods and REST.
+- Getting acquainted with the Methods and REST.
 - Independent determination of the scope of tests for the next 2 weeks.
 - Creating custom collections.
 - Setting up a repository, working with branches.
