@@ -22,6 +22,22 @@ All of these tasks have names that correspond to the individual stages of the te
 
 **Manual Tester - Cherry IT**
 
+03.2023 - 04.2023
+
+The project was with the help of Postman.
+
+Scope of work:
+
+- Explore a trello documentation and install other tools
+- Getting acquainted with the topic of Methods and REST.
+- Independent determination of the scope of tests for the next 2 weeks.
+- Creating custom collections.
+- Setting up a repository, working with branches.
+- Exporting collections to GitHub.
+- For those interested, there was also a review of bug reporting and writing test cases.
+
+**Manual Tester - Cherry IT**
+
 10.2022 - 12.2022
 
 Project based on the trello board and it's oriented for finding defects and reporting defects by developer tools.
